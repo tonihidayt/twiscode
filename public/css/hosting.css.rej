@@ -1,0 +1,6 @@
+diff a/public/css/hosting.css b/public/css/hosting.css	(rejected hunks)
+@@ -259,3 +259,3 @@
+   grid-gap: 120px;
+-  padding: 100px 0 120px;
++  padding: 0px 0 120px;
+ }
